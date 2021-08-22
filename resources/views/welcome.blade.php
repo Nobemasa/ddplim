@@ -358,82 +358,79 @@
         
     
         <div class="container mb-5 text-center">
-        <div class="row mb-2 mt-5">
-            <h2 class="col-12 cinza mt-3">Contato</h2>
-        </div>
+            <div class="row mb-2 mt-5">
+                <h2 class="col-12 cinza mt-3">Contato</h2>
+            </div>
 
-        <div class="card-group">
-            <div class="card p-3">
-                <img class="atuacao_img" src="img/google-maps.jpg">
-                <div class="card-body">
-                <h5 class="card-title font-weight-bold">Onde estamos</h5>
-                <p class="card-text">Rua Padre Capelli, 230 Centro</p>
-                <p class="card-text mt-n1"> Porto Ferreira-SP.</p>
+            <div class="card-group">
+                <div class="card p-3">
+                    <img class="atuacao_img" src="img/google-maps.jpg">
+                    <div class="card-body">
+                    <h5 class="card-title font-weight-bold">Onde estamos</h5>
+                    <p class="card-text">Rua Padre Capelli, 230 Centro</p>
+                    <p class="card-text mt-n1"> Porto Ferreira-SP.</p>
+                    </div>
+                    <div class="card-footer">
+                    <a href="#" class="btn btn-primary">Iniciar GPS</a>
+                    </div>
                 </div>
-                <div class="card-footer">
-                <a href="#" class="btn btn-primary">Iniciar GPS</a>
+                <div class="card p-3">
+                    <img class="atuacao_img" src="img/telefone.jpg">
+                    <div class="card-body">
+                    <h5 class="card-title font-weight-bold">Telefones</h5>
+                    <p class="card-text">Fixo (19) 3585-3538</p>
+                    <p class="card-text mt-n1">Celular (19) 9 9620-1509</p>
+                    </div>
+                    <div class="card-footer">
+                    <a href="tel:551935853538" class="btn btn-primary">Ligar</a>
+                    </div>
+                </div>
+                <div class="card p-3">
+                    <img class="atuacao_img" src="img/horarios.jpg">
+                    <div class="card-body">
+                    <h5 class="card-title font-weight-bold">Horário de Atendimento</h5>
+                    <p class="card-text mt-2">Segunda à Sexta 8h ~ 18h</p>
+                    <p class="card-text">Sábados 8h ~ 12h</p>
+                    </div>
+                
                 </div>
             </div>
-            <div class="card p-3">
-                <img class="atuacao_img" src="img/telefone.jpg">
-                <div class="card-body">
-                <h5 class="card-title font-weight-bold">Telefones</h5>
-                <p class="card-text">Fixo (19) 3585-3538</p>
-                <p class="card-text mt-n1">Celular (19) 9 9620-1509</p>
-                </div>
-                <div class="card-footer">
-                <a href="tel:551935853538" class="btn btn-primary">Ligar</a>
-                </div>
-            </div>
-            <div class="card p-3">
-                <img class="atuacao_img" src="img/horarios.jpg">
-                <div class="card-body">
-                <h5 class="card-title font-weight-bold">Horário de Atendimento</h5>
-                <p class="card-text mt-2">Segunda à Sexta 8h ~ 18h</p>
-                <p class="card-text">Sábados 8h ~ 12h</p>
-                </div>
-               
-            </div>
-        </div>
 
-        <div class="card-group">
-            <div class="card p-3">
-                <img class="atuacao_img" src="img/google-maps.jpg">
-                <div class="card-body">
-                <h5 class="card-title font-weight-bold">Rede Social</h5>
-                <p class="card-text">Curta nossa página</p>
-                <p class="card-text mt-n1">no Facebook.</p>
+            <div class="card-group">
+                <div class="card p-3">
+                    <img class="atuacao_img" src="img/facebook.jpg">
+                    <div class="card-body">
+                    <h5 class="card-title font-weight-bold">Rede Social</h5>
+                    <p class="card-text">Curta nossa página</p>
+                    <p class="card-text mt-n1">no Facebook.</p>
+                    </div>
+                    <div class="card-footer">
+                    <a href="https://www.facebook.com/dedetizadoraddplim.dedetizadora?ref=bookmarks" target="_blank" class="btn btn-primary">Curtir</a>
+                    </div>
                 </div>
-                <div class="card-footer">
-                <a href="https://www.facebook.com/dedetizadoraddplim.dedetizadora?ref=bookmarks" target="_blank" class="btn btn-primary">Curtir</a>
+                <div class="card p-3">
+                    <img class="atuacao_img" src="img/email.jpeg">
+                    <div class="card-body">
+                    <h5 class="card-title font-weight-bold">E-mail</h5>
+                    <p class="card-text">Entre em contato por e-mail nossa equipe entrará em contato</p>
+                    </div>
+                    <div class="card-footer">
+                    <a href="mailto:ddplimdedetizadoracomercial@gmail.com?subject=Contato&nbsp;Site" class="btn btn-primary">Escrever</a>
+                    </div>
+                </div>
+                <div class="card p-3">
+                    <img class="atuacao_img" src="img/orcam.jpg">
+                    <div class="card-body">
+                    <h5 class="card-title font-weight-bold">Orçamento</h5>
+                    <p class="card-text">Solicite agora um</p>
+                    <p class="card-text mt-n1"> orçamento sem compromisso</p>
+                    </div>
+                    <div class="card-footer">
+                    <a href="https://api.whatsapp.com/send?phone=5519996201509&text=Orçamento pelo site DDPLIM DEDETIZADORA" 
+        target="_blank" class="btn btn-primary">Solicitar</a>
+                    </div>
                 </div>
             </div>
-            <div class="card p-3">
-                <img class="atuacao_img" src="img/telefone.jpg">
-                <div class="card-body">
-                 <h5 class="card-title font-weight-bold">E-mail</h5>
-                <p class="card-text">Entre em contato por e-mail nossa equipe entrará em contato</p>
-                </div>
-                <div class="card-footer">
-                <a href="mailto:ddplimdedetizadoracomercial@gmail.com?subject=Contato&nbsp;Site" class="btn btn-primary">Escrever</a>
-                </div>
-            </div>
-            <div class="card p-3">
-                <img class="atuacao_img" src="img/horarios.jpg">
-                <div class="card-body">
-                <h5 class="card-title font-weight-bold">Orçamento</h5>
-                <p class="card-text">Solicite agora um</p>
-                <p class="card-text mt-n1"> orçamento sem compromisso</p>
-                </div>
-                <div class="card-footer">
-                <a href="https://api.whatsapp.com/send?phone=5519996201509&text=Orçamento pelo site DDPLIM DEDETIZADORA" 
-    target="_blank" class="btn btn-primary">Solicitar</a>
-                </div>
-            </div>
-        </div>
-
-        
-     
         </div>
 
     </div>
