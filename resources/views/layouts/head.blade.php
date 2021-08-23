@@ -45,6 +45,6 @@
         <meta name="generator" content="Thiago">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://www.dedetizadoraddplim.com.br">
-        <meta property="og:image" content="https://www.dedetizadoraddplim.com.br/public/img/logo.png">
-        <link rel="icon" size="192x192" href="https://www.dedetizadoraddplim.com.br/public/img/logo.png">
+        <meta property="og:url" content="http://www.dedetizadoraddplim.com.br">
+        <meta property="og:image" content="http://www.dedetizadoraddplim.com.br/public/img/logo.png">
+        <link rel="icon" size="192x192" href="http://www.dedetizadoraddplim.com.br/public/img/logo.png">

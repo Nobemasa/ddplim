@@ -371,7 +371,7 @@
                     <p class="card-text mt-n1"> Porto Ferreira-SP.</p>
                     </div>
                     <div class="card-footer">
-                    <a href="#" class="btn btn-primary">Iniciar GPS</a>
+                    <a href="https://goo.gl/maps/cwB7tZqoY9g8bx1cA" class="btn btn-primary">Iniciar GPS</a>
                     </div>
                 </div>
                 <div class="card p-3">
